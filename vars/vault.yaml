@@ -1,0 +1,7 @@
+---
+
+my_username: abc123
+my_password: somethingsupersecret123
+
+cloudflare_account_email: my@email.com
+cloudflare_api_key: 1234

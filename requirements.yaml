@@ -1,0 +1,4 @@
+roles:
+- src: ironicbadger.docker_compose_generator
+- src: geerlingguy.docker
+- src: grog.package
